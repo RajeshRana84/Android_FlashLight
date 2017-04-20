@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\rajesh.rana\\AndroidStudioProjects\\FlashLightApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_switch_off.png",
+        "source": "C:\\Users\\rajesh.rana\\AndroidStudioProjects\\FlashLightApp1\\app\\src\\main\\res\\drawable-hdpi\\btn_switch_off.png"
+    },
+    {
+        "merged": "C:\\Users\\rajesh.rana\\AndroidStudioProjects\\FlashLightApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\ic_launcher.png",
+        "source": "C:\\Users\\rajesh.rana\\AndroidStudioProjects\\FlashLightApp1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\rajesh.rana\\AndroidStudioProjects\\FlashLightApp1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\btn_switch_on.png",
+        "source": "C:\\Users\\rajesh.rana\\AndroidStudioProjects\\FlashLightApp1\\app\\src\\main\\res\\drawable-hdpi\\btn_switch_on.png"
+    }
+]
